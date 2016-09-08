@@ -11,7 +11,9 @@ var food = fs.readFile('food.txt', 'utf8', function (err, food) {
     }
 
     else {
+        console.log('FOOD');
         console.log(food);
+        console.log('\n');
     }
 });
 
@@ -23,7 +25,7 @@ var drinks = fs.readFile('drinks.txt', 'utf8', function (err, drinks) {
     }
 
     else {
-        console.log('\nDRINKS');
+        console.log('DRINKS');
         console.log(drinks);
     }
 });
