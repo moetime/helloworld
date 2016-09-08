@@ -1,0 +1,10 @@
+﻿chicken
+rice
+soup
+lettuce
+bread
+corn
+peas
+beans
+swiss chard
+eggs
